@@ -1,6 +1,6 @@
 {
-  "name": "maatwebsite/excel",
-  "description": "Supercharged Excel exports in Laravel",
+  "name": "fivepointfive/Laravel-Excel-Patched-v21",
+  "description": "Patched v2.1: Maatwebsite/Laravel-Excel",
   "license": "MIT",
   "keywords": [
     "laravel",
